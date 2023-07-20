@@ -1,3 +1,5 @@
+# Guess the word by guessing alphabates one by one 
+
 import random
 
 name = input("what is your name? ")
